@@ -17,7 +17,7 @@ class Frame
   
 ##  puts "Inside the Frames"
 
-#  jogada1 = Jogada.new(8)
+##  jogada1 = Jogada.new(8)
 #  jogada2 = Jogada.new(8)
 #  puts jogada1.get_info
   

@@ -6,7 +6,7 @@ class Jogada
     @pinos = pinos
   end
 
-  #teste
+  ##teste
   def get_info
     "Pinos  : #{ @pinos }"
   end
