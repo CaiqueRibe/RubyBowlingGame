@@ -20,6 +20,7 @@ class Jogo
     jogadas = Array.new
     jogadasPC = Array.new
     ##puts
+    ##puts
     strike = false
     spare = false
     
