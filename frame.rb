@@ -15,7 +15,7 @@ class Frame
   end
   
   
-#  puts "Inside the Frames"
+##  puts "Inside the Frames"
 
 #  jogada1 = Jogada.new(8)
 #  jogada2 = Jogada.new(8)
