@@ -1,7 +1,7 @@
 # RubyBowlingGame
 Engenharia de Software - Segundo Semestre 2019
 
-Caique Ribeiro #431304
+Caique Ribeiro #431304 - CaiqueRibeiro2010@live.com
 
 The Game
 -----------------------------
